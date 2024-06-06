@@ -7,7 +7,7 @@
   </a>
 </div>
 
-## Hi, My name is Sergio. I have over 4 years of experience with generative AI models as of 2024. I am currently studying Cybersecurity with burgeoning Full Stack Developer knowledge. For more information about my experience and education, you can reach me at Sknow1112@gmail.com.
+## Hi, My name is Sergio. For more information about my experience and education, you can visit my website or reach me at Sknow1112@gmail.com.
 
 
 <!--
